@@ -1,4 +1,4 @@
-![Social Banner](https://raw.githubusercontent.com/Nadeau-Innovations/.github/main/profile/social.png)
+![Social Banner](https://raw.githubusercontent.com/Nadeau-Innovations/brand/main/social/social.png)
 
 # Empower corporate innovation and startups to effectively and efficiently jumpstart innovation. 🚀
 
