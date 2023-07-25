@@ -1,22 +1,21 @@
-[![Social Banner](https://raw.githubusercontent.com/Nadeau-Innovations/brand/main/social/social.png)](https://nadeauinnovations.com)
+[![Social Banner](https://raw.githubusercontent.com/Nadeau-Innovations/site/master/assets/media/sharing.jpg)](https://nadeauinnovations.com)
 
-# [Empower corporate innovation and startups to effectively and efficiently jumpstart innovation.](https://nadeauinnovations.com) 🚀
+# [Nadeau Innovations: Unlock Your Hard Tech Potential](https://nadeauinnovations.com) 🚀
 
 ## [SUBSCRIBE TO OUR NEWSLETTER](https://engnadeau.substack.com/) 👈
 
-Insights and news focused on building innovative technologies, new products, and high-performance teams in startups and agile businesses. 🚀
+Stay ahead with the latest on innovation, cutting-edge tech, and building high-performance teams. 🚀
 
 ## WHAT WE DO 🤖
 
-- [Fractional CTO](https://nadeauinnovations.com/services/#fractional-cto)
-- [Speaking](https://nadeauinnovations.com/services#speaking)
-- [Events](https://nadeauinnovations.com/event)
-- [Products](https://nadeauinnovations.com/products)
+- [Expert Fractional CTO Services](https://nadeauinnovations.com/services/#fractional-cto)
+- [Speaking Engagements](https://nadeauinnovations.com/services#speaking)
+- [Tech Events](https://nadeauinnovations.com/event)
 - [Newsletter](https://engnadeau.substack.com/)
 
-## VARIA 🚀
+## EXPLORE MORE 🚀
 
-- [About](https://nadeauinnovations.com/about)
+- [About Us](https://nadeauinnovations.com/about)
 - [Blog](https://nadeauinnovations.com/post)
 - [Contact](https://nadeauinnovations.com/contact)
-- [Press](https://nadeauinnovations.com/press)
+- [Press Releases](https://nadeauinnovations.com/press)
