@@ -1,21 +1,21 @@
-[![Social Banner](https://raw.githubusercontent.com/Nadeau-Innovations/site/master/assets/media/sharing.jpg)](https://nadeauinnovations.com)
+[![Social Banner](https://raw.githubusercontent.com/Nadeau-Innovations/site/master/assets/media/sharing.jpg)](https://smartone.ai)
 
-# [Nadeau Innovations: Unlock Your Hard Tech Potential](https://nadeauinnovations.com) 🚀
+# [Nadeau Innovations: Now Part of SmartOne.ai](https://smartone.ai/blog/smartone-acquires-nadeau-innovations-nicholas-nadeau-new-cto/) 🚀
 
-## [SUBSCRIBE TO OUR NEWSLETTER](https://engnadeau.substack.com/) 👈
+## What We Do 🤖
 
-Stay ahead with the latest on innovation, cutting-edge tech, and building high-performance teams. 🚀
+Nadeau Innovations has joined forces with [SmartOne.ai](https://smartone.ai), a leader in ethical AI and data solutions. This acquisition strengthens our mission to deliver cutting-edge AI/ML and data solutions with a focus on ethical impact and innovative outcomes.
 
-## WHAT WE DO 🤖
+### Explore SmartOne.ai’s Services
 
-- [Expert Fractional CTO Services](https://nadeauinnovations.com/services/#fractional-cto)
-- [Speaking Engagements](https://nadeauinnovations.com/services#speaking)
-- [Tech Events](https://nadeauinnovations.com/event)
-- [Newsletter](https://engnadeau.substack.com/)
+- [Fractional CTO Services](https://smartone.ai/services/)
+- [Data Annotation and Labeling](https://smartone.ai/data-annotation)
+- [AI Consulting & Advisory Services](https://smartone.ai/consulting)
+- [SmartOne.ai Blog](https://smartone.ai/blog)
 
-## EXPLORE MORE 🚀
+## About SmartOne.ai
 
-- [About Us](https://nadeauinnovations.com/about)
-- [Blog](https://nadeauinnovations.com/post)
-- [Contact](https://nadeauinnovations.com/contact)
-- [Press Releases](https://nadeauinnovations.com/press)
+To learn more about our acquisition and our mission to drive positive AI advancements, check out the official [press release](https://smartone.ai/blog/smartone-acquires-nadeau-innovations-nicholas-nadeau-new-cto/)
+## Get in Touch
+
+For more information on our services, partnerships, or media inquiries, visit our website: [smartone.ai](https://smartone.ai)
